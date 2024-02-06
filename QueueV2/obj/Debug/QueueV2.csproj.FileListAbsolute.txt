@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\bin\Debug\QueueV2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\bin\Debug\QueueV2.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\bin\Debug\QueueV2.pdb
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.exe
+C:\Users\User\Desktop\KORUMASIZ\Nursevim-10A-1575\QueueV2\QueueV2\obj\Debug\QueueV2.pdb
